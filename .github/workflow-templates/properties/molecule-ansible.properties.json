@@ -1,5 +1,7 @@
 {
     "name": "molecule-ansible Workflow",
     "description": "Molecule CI workflow template for testing Ansible roles.",
-    "iconName": "ansible"
+    "iconName": "ansible",
+    "creator": "Wefactorit",
+    "categories": null
 }

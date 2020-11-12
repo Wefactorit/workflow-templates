@@ -1,5 +1,5 @@
 {
-    "name": "Molecule Test Ansible Workflow",
+    "name": "molecule-ansible Workflow",
     "description": "Molecule CI workflow template for testing Ansible roles.",
     "iconName": "ansible"
 }

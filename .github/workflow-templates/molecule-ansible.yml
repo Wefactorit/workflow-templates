@@ -1,4 +1,4 @@
-name: Molecule Test Ansible CI
+name: molecule-ansible CI
 
 on:
   push:
